@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Radio Huesca</title>
+		<description>Infórmate de la última hora de Huesca y sus comarcas.</description>
+		<link>https://www.radiohuesca.com/</link>
+		<item>
+			<title>Ocio nocturno y hosteleria hasta las 00.00</title>
+			<description>El número de personas permitidas en mesas de terraza se amplía hasta diez, con seis en el interior</description>
+			<link>https://www.radiohuesca.com/sociedad/el-gobierno-de-aragon-informa-sobre-las-novedades-del-covid-19-03062021-155073.html</link>
+		</item>
+		<item>
+			<title>Finaliza la segunda fase de mejora del Parque San Martín</title>
+			<description>El Ayuntamiento ya está trabajando en la licitación de una nueva fase de mejora del parque </description>
+			<link>https://www.radiohuesca.com/huesca/finaliza-la-segunda-fase-de-mejora-del-parque-san-martin-con-una-inversion-de-243-000-euros-02062021-155046.html</link>
+		</item>
+		<item>
+			<title>Comienza la temporada de piscinas marcada por las restricciones sanitarias</title>
+			<description>El día 1 de junio abre San Jorge y el 15 lo harán el resto de instalaciones</description>
+			<link>https://www.radiohuesca.com/huesca/arranca-una-nueva-temporada-de-piscinas-marcada-por-las-restricciones-sanitarias-31052021-154917.html</link>
+		</item>
+	</channel>
+</rss> 
